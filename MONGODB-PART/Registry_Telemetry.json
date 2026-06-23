@@ -1,0 +1,2602 @@
+[
+  {
+    "sql_references": {
+      "user_id": 7,
+      "build_id": 3,
+      "game_id": 48
+    },
+    "game_settings": {
+      "resolution": "1080p",
+      "graphics_preset": "Low",
+      "ray_tracing_enabled": false,
+      "upscaling": "DLSS Performance"
+    },
+    "performance_metrics": {
+      "fps": {
+        "average_fps": 1684,
+        "one_percent_low": 1031
+      },
+      "hardware_telemetry": {
+        "cpu_max_temp_c": 82,
+        "gpu_max_temp_c": 60,
+        "gpu_utilization_percent": 41,
+        "system_ram_used_gb": 5.8
+      }
+    },
+    "test_date": "2026-05-05T05:27:49Z"
+  },
+  {
+    "sql_references": {
+      "user_id": 4,
+      "build_id": 6,
+      "game_id": 44
+    },
+    "game_settings": {
+      "resolution": "1440p",
+      "graphics_preset": "Ultra",
+      "ray_tracing_enabled": true,
+      "upscaling": "DLSS Performance"
+    },
+    "performance_metrics": {
+      "fps": {
+        "average_fps": 37,
+        "one_percent_low": 28
+      },
+      "hardware_telemetry": {
+        "cpu_max_temp_c": 61,
+        "gpu_max_temp_c": 78,
+        "gpu_utilization_percent": 100,
+        "system_ram_used_gb": 9.1
+      }
+    },
+    "test_date": "2026-04-20T14:27:49Z"
+  },
+  {
+    "sql_references": {
+      "user_id": 1,
+      "build_id": 10,
+      "game_id": 3
+    },
+    "game_settings": {
+      "resolution": "4K",
+      "graphics_preset": "Medium",
+      "ray_tracing_enabled": false,
+      "upscaling": "DLSS Quality"
+    },
+    "performance_metrics": {
+      "fps": {
+        "average_fps": 13,
+        "one_percent_low": 9
+      },
+      "hardware_telemetry": {
+        "cpu_max_temp_c": 69,
+        "gpu_max_temp_c": 82,
+        "gpu_utilization_percent": 87,
+        "system_ram_used_gb": 13.1
+      }
+    },
+    "test_date": "2026-04-28T09:27:49Z"
+  },
+  {
+    "sql_references": {
+      "user_id": 9,
+      "build_id": 1,
+      "game_id": 12
+    },
+    "game_settings": {
+      "resolution": "4K",
+      "graphics_preset": "Extreme",
+      "ray_tracing_enabled": true,
+      "upscaling": "DLSS Quality"
+    },
+    "performance_metrics": {
+      "fps": {
+        "average_fps": 47,
+        "one_percent_low": 34
+      },
+      "hardware_telemetry": {
+        "cpu_max_temp_c": 69,
+        "gpu_max_temp_c": 68,
+        "gpu_utilization_percent": 55,
+        "system_ram_used_gb": 6.1
+      }
+    },
+    "test_date": "2026-04-23T21:27:49Z"
+  },
+  {
+    "sql_references": {
+      "user_id": 8,
+      "build_id": 9,
+      "game_id": 4
+    },
+    "game_settings": {
+      "resolution": "1080p",
+      "graphics_preset": "Low",
+      "ray_tracing_enabled": true,
+      "upscaling": "DLSS Performance"
+    },
+    "performance_metrics": {
+      "fps": {
+        "average_fps": 53,
+        "one_percent_low": 36
+      },
+      "hardware_telemetry": {
+        "cpu_max_temp_c": 71,
+        "gpu_max_temp_c": 70,
+        "gpu_utilization_percent": 92,
+        "system_ram_used_gb": 17.7
+      }
+    },
+    "test_date": "2026-05-07T00:27:49Z"
+  },
+  {
+    "sql_references": {
+      "user_id": 8,
+      "build_id": 8,
+      "game_id": 49
+    },
+    "game_settings": {
+      "resolution": "1440p",
+      "graphics_preset": "Medium",
+      "ray_tracing_enabled": true,
+      "upscaling": "FSR Quality"
+    },
+    "performance_metrics": {
+      "fps": {
+        "average_fps": 24,
+        "one_percent_low": 14
+      },
+      "hardware_telemetry": {
+        "cpu_max_temp_c": 58,
+        "gpu_max_temp_c": 74,
+        "gpu_utilization_percent": 97,
+        "system_ram_used_gb": 9.2
+      }
+    },
+    "test_date": "2026-05-06T21:27:49Z"
+  },
+  {
+    "sql_references": {
+      "user_id": 8,
+      "build_id": 10,
+      "game_id": 16
+    },
+    "game_settings": {
+      "resolution": "4K",
+      "graphics_preset": "Ultra",
+      "ray_tracing_enabled": true,
+      "upscaling": "None"
+    },
+    "performance_metrics": {
+      "fps": {
+        "average_fps": 12,
+        "one_percent_low": 9
+      },
+      "hardware_telemetry": {
+        "cpu_max_temp_c": 68,
+        "gpu_max_temp_c": 77,
+        "gpu_utilization_percent": 91,
+        "system_ram_used_gb": 6.9
+      }
+    },
+    "test_date": "2026-05-16T14:27:49Z"
+  },
+  {
+    "sql_references": {
+      "user_id": 9,
+      "build_id": 1,
+      "game_id": 19
+    },
+    "game_settings": {
+      "resolution": "1440p",
+      "graphics_preset": "Low",
+      "ray_tracing_enabled": false,
+      "upscaling": "None"
+    },
+    "performance_metrics": {
+      "fps": {
+        "average_fps": 129,
+        "one_percent_low": 90
+      },
+      "hardware_telemetry": {
+        "cpu_max_temp_c": 66,
+        "gpu_max_temp_c": 84,
+        "gpu_utilization_percent": 100,
+        "system_ram_used_gb": 20.6
+      }
+    },
+    "test_date": "2026-05-02T13:27:49Z"
+  },
+  {
+    "sql_references": {
+      "user_id": 2,
+      "build_id": 8,
+      "game_id": 45
+    },
+    "game_settings": {
+      "resolution": "1080p",
+      "graphics_preset": "Low",
+      "ray_tracing_enabled": false,
+      "upscaling": "FSR Performance"
+    },
+    "performance_metrics": {
+      "fps": {
+        "average_fps": 97,
+        "one_percent_low": 71
+      },
+      "hardware_telemetry": {
+        "cpu_max_temp_c": 68,
+        "gpu_max_temp_c": 78,
+        "gpu_utilization_percent": 95,
+        "system_ram_used_gb": 7.7
+      }
+    },
+    "test_date": "2026-04-30T05:27:49Z"
+  },
+  {
+    "sql_references": {
+      "user_id": 9,
+      "build_id": 6,
+      "game_id": 41
+    },
+    "game_settings": {
+      "resolution": "1080p",
+      "graphics_preset": "High",
+      "ray_tracing_enabled": false,
+      "upscaling": "FSR Quality"
+    },
+    "performance_metrics": {
+      "fps": {
+        "average_fps": 450,
+        "one_percent_low": 359
+      },
+      "hardware_telemetry": {
+        "cpu_max_temp_c": 73,
+        "gpu_max_temp_c": 64,
+        "gpu_utilization_percent": 63,
+        "system_ram_used_gb": 9.2
+      }
+    },
+    "test_date": "2026-05-14T07:27:49Z"
+  },
+  {
+    "sql_references": {
+      "user_id": 3,
+      "build_id": 5,
+      "game_id": 34
+    },
+    "game_settings": {
+      "resolution": "4K",
+      "graphics_preset": "Extreme",
+      "ray_tracing_enabled": true,
+      "upscaling": "None"
+    },
+    "performance_metrics": {
+      "fps": {
+        "average_fps": 20,
+        "one_percent_low": 15
+      },
+      "hardware_telemetry": {
+        "cpu_max_temp_c": 68,
+        "gpu_max_temp_c": 64,
+        "gpu_utilization_percent": 45,
+        "system_ram_used_gb": 6.5
+      }
+    },
+    "test_date": "2026-05-04T00:27:49Z"
+  },
+  {
+    "sql_references": {
+      "user_id": 6,
+      "build_id": 10,
+      "game_id": 28
+    },
+    "game_settings": {
+      "resolution": "4K",
+      "graphics_preset": "Low",
+      "ray_tracing_enabled": false,
+      "upscaling": "DLSS Quality"
+    },
+    "performance_metrics": {
+      "fps": {
+        "average_fps": 29,
+        "one_percent_low": 19
+      },
+      "hardware_telemetry": {
+        "cpu_max_temp_c": 71,
+        "gpu_max_temp_c": 77,
+        "gpu_utilization_percent": 97,
+        "system_ram_used_gb": 7.9
+      }
+    },
+    "test_date": "2026-04-17T19:27:49Z"
+  },
+  {
+    "sql_references": {
+      "user_id": 8,
+      "build_id": 1,
+      "game_id": 33
+    },
+    "game_settings": {
+      "resolution": "1080p",
+      "graphics_preset": "Medium",
+      "ray_tracing_enabled": false,
+      "upscaling": "FSR Performance"
+    },
+    "performance_metrics": {
+      "fps": {
+        "average_fps": 648,
+        "one_percent_low": 407
+      },
+      "hardware_telemetry": {
+        "cpu_max_temp_c": 71,
+        "gpu_max_temp_c": 65,
+        "gpu_utilization_percent": 43,
+        "system_ram_used_gb": 6.0
+      }
+    },
+    "test_date": "2026-05-06T05:27:49Z"
+  },
+  {
+    "sql_references": {
+      "user_id": 9,
+      "build_id": 2,
+      "game_id": 17
+    },
+    "game_settings": {
+      "resolution": "4K",
+      "graphics_preset": "Ultra",
+      "ray_tracing_enabled": true,
+      "upscaling": "DLSS Quality"
+    },
+    "performance_metrics": {
+      "fps": {
+        "average_fps": 29,
+        "one_percent_low": 20
+      },
+      "hardware_telemetry": {
+        "cpu_max_temp_c": 59,
+        "gpu_max_temp_c": 79,
+        "gpu_utilization_percent": 94,
+        "system_ram_used_gb": 7.1
+      }
+    },
+    "test_date": "2026-05-15T08:27:49Z"
+  },
+  {
+    "sql_references": {
+      "user_id": 4,
+      "build_id": 5,
+      "game_id": 31
+    },
+    "game_settings": {
+      "resolution": "1080p",
+      "graphics_preset": "Extreme",
+      "ray_tracing_enabled": false,
+      "upscaling": "DLSS Performance"
+    },
+    "performance_metrics": {
+      "fps": {
+        "average_fps": 64,
+        "one_percent_low": 41
+      },
+      "hardware_telemetry": {
+        "cpu_max_temp_c": 70,
+        "gpu_max_temp_c": 74,
+        "gpu_utilization_percent": 89,
+        "system_ram_used_gb": 7.9
+      }
+    },
+    "test_date": "2026-04-18T08:27:49Z"
+  },
+  {
+    "sql_references": {
+      "user_id": 4,
+      "build_id": 4,
+      "game_id": 24
+    },
+    "game_settings": {
+      "resolution": "4K",
+      "graphics_preset": "High",
+      "ray_tracing_enabled": true,
+      "upscaling": "None"
+    },
+    "performance_metrics": {
+      "fps": {
+        "average_fps": 16,
+        "one_percent_low": 9
+      },
+      "hardware_telemetry": {
+        "cpu_max_temp_c": 58,
+        "gpu_max_temp_c": 84,
+        "gpu_utilization_percent": 95,
+        "system_ram_used_gb": 4.8
+      }
+    },
+    "test_date": "2026-04-21T10:27:49Z"
+  },
+  {
+    "sql_references": {
+      "user_id": 8,
+      "build_id": 6,
+      "game_id": 39
+    },
+    "game_settings": {
+      "resolution": "1080p",
+      "graphics_preset": "High",
+      "ray_tracing_enabled": false,
+      "upscaling": "DLSS Performance"
+    },
+    "performance_metrics": {
+      "fps": {
+        "average_fps": 128,
+        "one_percent_low": 94
+      },
+      "hardware_telemetry": {
+        "cpu_max_temp_c": 66,
+        "gpu_max_temp_c": 83,
+        "gpu_utilization_percent": 89,
+        "system_ram_used_gb": 8.2
+      }
+    },
+    "test_date": "2026-05-13T20:27:49Z"
+  },
+  {
+    "sql_references": {
+      "user_id": 6,
+      "build_id": 2,
+      "game_id": 36
+    },
+    "game_settings": {
+      "resolution": "1440p",
+      "graphics_preset": "High",
+      "ray_tracing_enabled": false,
+      "upscaling": "FSR Quality"
+    },
+    "performance_metrics": {
+      "fps": {
+        "average_fps": 280,
+        "one_percent_low": 217
+      },
+      "hardware_telemetry": {
+        "cpu_max_temp_c": 76,
+        "gpu_max_temp_c": 58,
+        "gpu_utilization_percent": 41,
+        "system_ram_used_gb": 6.9
+      }
+    },
+    "test_date": "2026-05-12T22:27:49Z"
+  },
+  {
+    "sql_references": {
+      "user_id": 1,
+      "build_id": 11,
+      "game_id": 30
+    },
+    "game_settings": {
+      "resolution": "1440p",
+      "graphics_preset": "Extreme",
+      "ray_tracing_enabled": false,
+      "upscaling": "FSR Quality"
+    },
+    "performance_metrics": {
+      "fps": {
+        "average_fps": 16,
+        "one_percent_low": 12
+      },
+      "hardware_telemetry": {
+        "cpu_max_temp_c": 62,
+        "gpu_max_temp_c": 76,
+        "gpu_utilization_percent": 96,
+        "system_ram_used_gb": 9.7
+      }
+    },
+    "test_date": "2026-04-18T02:27:49Z"
+  },
+  {
+    "sql_references": {
+      "user_id": 5,
+      "build_id": 5,
+      "game_id": 50
+    },
+    "game_settings": {
+      "resolution": "1440p",
+      "graphics_preset": "Medium",
+      "ray_tracing_enabled": true,
+      "upscaling": "FSR Quality"
+    },
+    "performance_metrics": {
+      "fps": {
+        "average_fps": 219,
+        "one_percent_low": 159
+      },
+      "hardware_telemetry": {
+        "cpu_max_temp_c": 80,
+        "gpu_max_temp_c": 67,
+        "gpu_utilization_percent": 57,
+        "system_ram_used_gb": 8.9
+      }
+    },
+    "test_date": "2026-04-17T21:27:49Z"
+  },
+  {
+    "sql_references": {
+      "user_id": 3,
+      "build_id": 9,
+      "game_id": 7
+    },
+    "game_settings": {
+      "resolution": "1080p",
+      "graphics_preset": "High",
+      "ray_tracing_enabled": false,
+      "upscaling": "DLSS Quality"
+    },
+    "performance_metrics": {
+      "fps": {
+        "average_fps": 52,
+        "one_percent_low": 31
+      },
+      "hardware_telemetry": {
+        "cpu_max_temp_c": 55,
+        "gpu_max_temp_c": 78,
+        "gpu_utilization_percent": 90,
+        "system_ram_used_gb": 6.5
+      }
+    },
+    "test_date": "2026-05-16T14:27:49Z"
+  },
+  {
+    "sql_references": {
+      "user_id": 4,
+      "build_id": 5,
+      "game_id": 50
+    },
+    "game_settings": {
+      "resolution": "1440p",
+      "graphics_preset": "High",
+      "ray_tracing_enabled": true,
+      "upscaling": "FSR Quality"
+    },
+    "performance_metrics": {
+      "fps": {
+        "average_fps": 175,
+        "one_percent_low": 120
+      },
+      "hardware_telemetry": {
+        "cpu_max_temp_c": 75,
+        "gpu_max_temp_c": 57,
+        "gpu_utilization_percent": 72,
+        "system_ram_used_gb": 5.8
+      }
+    },
+    "test_date": "2026-04-21T21:27:49Z"
+  },
+  {
+    "sql_references": {
+      "user_id": 2,
+      "build_id": 5,
+      "game_id": 28
+    },
+    "game_settings": {
+      "resolution": "4K",
+      "graphics_preset": "Low",
+      "ray_tracing_enabled": false,
+      "upscaling": "DLSS Quality"
+    },
+    "performance_metrics": {
+      "fps": {
+        "average_fps": 59,
+        "one_percent_low": 42
+      },
+      "hardware_telemetry": {
+        "cpu_max_temp_c": 70,
+        "gpu_max_temp_c": 84,
+        "gpu_utilization_percent": 91,
+        "system_ram_used_gb": 8.4
+      }
+    },
+    "test_date": "2026-04-19T06:27:49Z"
+  },
+  {
+    "sql_references": {
+      "user_id": 4,
+      "build_id": 8,
+      "game_id": 27
+    },
+    "game_settings": {
+      "resolution": "4K",
+      "graphics_preset": "Low",
+      "ray_tracing_enabled": false,
+      "upscaling": "DLSS Quality"
+    },
+    "performance_metrics": {
+      "fps": {
+        "average_fps": 17,
+        "one_percent_low": 12
+      },
+      "hardware_telemetry": {
+        "cpu_max_temp_c": 72,
+        "gpu_max_temp_c": 76,
+        "gpu_utilization_percent": 100,
+        "system_ram_used_gb": 9.7
+      }
+    },
+    "test_date": "2026-04-22T10:27:49Z"
+  },
+  {
+    "sql_references": {
+      "user_id": 3,
+      "build_id": 2,
+      "game_id": 3
+    },
+    "game_settings": {
+      "resolution": "1440p",
+      "graphics_preset": "Low",
+      "ray_tracing_enabled": true,
+      "upscaling": "None"
+    },
+    "performance_metrics": {
+      "fps": {
+        "average_fps": 54,
+        "one_percent_low": 38
+      },
+      "hardware_telemetry": {
+        "cpu_max_temp_c": 75,
+        "gpu_max_temp_c": 78,
+        "gpu_utilization_percent": 95,
+        "system_ram_used_gb": 13.2
+      }
+    },
+    "test_date": "2026-05-16T20:27:49Z"
+  },
+  {
+    "sql_references": {
+      "user_id": 4,
+      "build_id": 12,
+      "game_id": 12
+    },
+    "game_settings": {
+      "resolution": "1440p",
+      "graphics_preset": "Ultra",
+      "ray_tracing_enabled": false,
+      "upscaling": "FSR Quality"
+    },
+    "performance_metrics": {
+      "fps": {
+        "average_fps": 58,
+        "one_percent_low": 42
+      },
+      "hardware_telemetry": {
+        "cpu_max_temp_c": 81,
+        "gpu_max_temp_c": 55,
+        "gpu_utilization_percent": 85,
+        "system_ram_used_gb": 8.1
+      }
+    },
+    "test_date": "2026-05-05T06:27:49Z"
+  },
+  {
+    "sql_references": {
+      "user_id": 4,
+      "build_id": 8,
+      "game_id": 47
+    },
+    "game_settings": {
+      "resolution": "1080p",
+      "graphics_preset": "Medium",
+      "ray_tracing_enabled": false,
+      "upscaling": "DLSS Performance"
+    },
+    "performance_metrics": {
+      "fps": {
+        "average_fps": 80,
+        "one_percent_low": 48
+      },
+      "hardware_telemetry": {
+        "cpu_max_temp_c": 61,
+        "gpu_max_temp_c": 82,
+        "gpu_utilization_percent": 95,
+        "system_ram_used_gb": 8.9
+      }
+    },
+    "test_date": "2026-04-28T18:27:49Z"
+  },
+  {
+    "sql_references": {
+      "user_id": 8,
+      "build_id": 10,
+      "game_id": 18
+    },
+    "game_settings": {
+      "resolution": "1080p",
+      "graphics_preset": "Low",
+      "ray_tracing_enabled": true,
+      "upscaling": "FSR Performance"
+    },
+    "performance_metrics": {
+      "fps": {
+        "average_fps": 49,
+        "one_percent_low": 37
+      },
+      "hardware_telemetry": {
+        "cpu_max_temp_c": 59,
+        "gpu_max_temp_c": 81,
+        "gpu_utilization_percent": 91,
+        "system_ram_used_gb": 10.4
+      }
+    },
+    "test_date": "2026-05-02T19:27:49Z"
+  },
+  {
+    "sql_references": {
+      "user_id": 5,
+      "build_id": 3,
+      "game_id": 11
+    },
+    "game_settings": {
+      "resolution": "1080p",
+      "graphics_preset": "Medium",
+      "ray_tracing_enabled": true,
+      "upscaling": "DLSS Quality"
+    },
+    "performance_metrics": {
+      "fps": {
+        "average_fps": 336,
+        "one_percent_low": 249
+      },
+      "hardware_telemetry": {
+        "cpu_max_temp_c": 75,
+        "gpu_max_temp_c": 52,
+        "gpu_utilization_percent": 56,
+        "system_ram_used_gb": 8.3
+      }
+    },
+    "test_date": "2026-05-03T21:27:49Z"
+  },
+  {
+    "sql_references": {
+      "user_id": 7,
+      "build_id": 10,
+      "game_id": 4
+    },
+    "game_settings": {
+      "resolution": "1440p",
+      "graphics_preset": "Medium",
+      "ray_tracing_enabled": false,
+      "upscaling": "None"
+    },
+    "performance_metrics": {
+      "fps": {
+        "average_fps": 27,
+        "one_percent_low": 19
+      },
+      "hardware_telemetry": {
+        "cpu_max_temp_c": 60,
+        "gpu_max_temp_c": 70,
+        "gpu_utilization_percent": 98,
+        "system_ram_used_gb": 9.7
+      }
+    },
+    "test_date": "2026-04-27T03:27:49Z"
+  },
+  {
+    "sql_references": {
+      "user_id": 7,
+      "build_id": 4,
+      "game_id": 23
+    },
+    "game_settings": {
+      "resolution": "1080p",
+      "graphics_preset": "Low",
+      "ray_tracing_enabled": false,
+      "upscaling": "FSR Quality"
+    },
+    "performance_metrics": {
+      "fps": {
+        "average_fps": 162,
+        "one_percent_low": 113
+      },
+      "hardware_telemetry": {
+        "cpu_max_temp_c": 74,
+        "gpu_max_temp_c": 80,
+        "gpu_utilization_percent": 92,
+        "system_ram_used_gb": 8.2
+      }
+    },
+    "test_date": "2026-05-15T16:27:49Z"
+  },
+  {
+    "sql_references": {
+      "user_id": 2,
+      "build_id": 5,
+      "game_id": 14
+    },
+    "game_settings": {
+      "resolution": "1440p",
+      "graphics_preset": "Ultra",
+      "ray_tracing_enabled": false,
+      "upscaling": "DLSS Quality"
+    },
+    "performance_metrics": {
+      "fps": {
+        "average_fps": 121,
+        "one_percent_low": 82
+      },
+      "hardware_telemetry": {
+        "cpu_max_temp_c": 66,
+        "gpu_max_temp_c": 65,
+        "gpu_utilization_percent": 67,
+        "system_ram_used_gb": 4.5
+      }
+    },
+    "test_date": "2026-04-24T19:27:49Z"
+  },
+  {
+    "sql_references": {
+      "user_id": 6,
+      "build_id": 5,
+      "game_id": 48
+    },
+    "game_settings": {
+      "resolution": "4K",
+      "graphics_preset": "Ultra",
+      "ray_tracing_enabled": false,
+      "upscaling": "FSR Performance"
+    },
+    "performance_metrics": {
+      "fps": {
+        "average_fps": 141,
+        "one_percent_low": 84
+      },
+      "hardware_telemetry": {
+        "cpu_max_temp_c": 73,
+        "gpu_max_temp_c": 68,
+        "gpu_utilization_percent": 43,
+        "system_ram_used_gb": 6.3
+      }
+    },
+    "test_date": "2026-04-20T07:27:49Z"
+  },
+  {
+    "sql_references": {
+      "user_id": 4,
+      "build_id": 12,
+      "game_id": 9
+    },
+    "game_settings": {
+      "resolution": "4K",
+      "graphics_preset": "Medium",
+      "ray_tracing_enabled": true,
+      "upscaling": "FSR Performance"
+    },
+    "performance_metrics": {
+      "fps": {
+        "average_fps": 12,
+        "one_percent_low": 7
+      },
+      "hardware_telemetry": {
+        "cpu_max_temp_c": 60,
+        "gpu_max_temp_c": 81,
+        "gpu_utilization_percent": 96,
+        "system_ram_used_gb": 18.5
+      }
+    },
+    "test_date": "2026-04-22T01:27:49Z"
+  },
+  {
+    "sql_references": {
+      "user_id": 3,
+      "build_id": 4,
+      "game_id": 6
+    },
+    "game_settings": {
+      "resolution": "1080p",
+      "graphics_preset": "High",
+      "ray_tracing_enabled": false,
+      "upscaling": "FSR Quality"
+    },
+    "performance_metrics": {
+      "fps": {
+        "average_fps": 100,
+        "one_percent_low": 69
+      },
+      "hardware_telemetry": {
+        "cpu_max_temp_c": 72,
+        "gpu_max_temp_c": 84,
+        "gpu_utilization_percent": 95,
+        "system_ram_used_gb": 7.6
+      }
+    },
+    "test_date": "2026-04-17T10:27:49Z"
+  },
+  {
+    "sql_references": {
+      "user_id": 2,
+      "build_id": 3,
+      "game_id": 3
+    },
+    "game_settings": {
+      "resolution": "1080p",
+      "graphics_preset": "Medium",
+      "ray_tracing_enabled": true,
+      "upscaling": "DLSS Performance"
+    },
+    "performance_metrics": {
+      "fps": {
+        "average_fps": 103,
+        "one_percent_low": 74
+      },
+      "hardware_telemetry": {
+        "cpu_max_temp_c": 61,
+        "gpu_max_temp_c": 78,
+        "gpu_utilization_percent": 90,
+        "system_ram_used_gb": 13.3
+      }
+    },
+    "test_date": "2026-04-28T05:27:49Z"
+  },
+  {
+    "sql_references": {
+      "user_id": 8,
+      "build_id": 8,
+      "game_id": 20
+    },
+    "game_settings": {
+      "resolution": "4K",
+      "graphics_preset": "Extreme",
+      "ray_tracing_enabled": false,
+      "upscaling": "None"
+    },
+    "performance_metrics": {
+      "fps": {
+        "average_fps": 12,
+        "one_percent_low": 7
+      },
+      "hardware_telemetry": {
+        "cpu_max_temp_c": 74,
+        "gpu_max_temp_c": 73,
+        "gpu_utilization_percent": 90,
+        "system_ram_used_gb": 12.1
+      }
+    },
+    "test_date": "2026-05-16T00:27:49Z"
+  },
+  {
+    "sql_references": {
+      "user_id": 5,
+      "build_id": 8,
+      "game_id": 49
+    },
+    "game_settings": {
+      "resolution": "4K",
+      "graphics_preset": "Ultra",
+      "ray_tracing_enabled": true,
+      "upscaling": "DLSS Performance"
+    },
+    "performance_metrics": {
+      "fps": {
+        "average_fps": 12,
+        "one_percent_low": 7
+      },
+      "hardware_telemetry": {
+        "cpu_max_temp_c": 64,
+        "gpu_max_temp_c": 74,
+        "gpu_utilization_percent": 93,
+        "system_ram_used_gb": 6.7
+      }
+    },
+    "test_date": "2026-05-06T03:27:49Z"
+  },
+  {
+    "sql_references": {
+      "user_id": 10,
+      "build_id": 10,
+      "game_id": 47
+    },
+    "game_settings": {
+      "resolution": "4K",
+      "graphics_preset": "Ultra",
+      "ray_tracing_enabled": false,
+      "upscaling": "DLSS Performance"
+    },
+    "performance_metrics": {
+      "fps": {
+        "average_fps": 16,
+        "one_percent_low": 10
+      },
+      "hardware_telemetry": {
+        "cpu_max_temp_c": 67,
+        "gpu_max_temp_c": 78,
+        "gpu_utilization_percent": 92,
+        "system_ram_used_gb": 6.0
+      }
+    },
+    "test_date": "2026-05-13T20:27:49Z"
+  },
+  {
+    "sql_references": {
+      "user_id": 1,
+      "build_id": 6,
+      "game_id": 31
+    },
+    "game_settings": {
+      "resolution": "4K",
+      "graphics_preset": "Medium",
+      "ray_tracing_enabled": false,
+      "upscaling": "DLSS Performance"
+    },
+    "performance_metrics": {
+      "fps": {
+        "average_fps": 56,
+        "one_percent_low": 43
+      },
+      "hardware_telemetry": {
+        "cpu_max_temp_c": 58,
+        "gpu_max_temp_c": 79,
+        "gpu_utilization_percent": 86,
+        "system_ram_used_gb": 7.3
+      }
+    },
+    "test_date": "2026-04-21T12:27:49Z"
+  },
+  {
+    "sql_references": {
+      "user_id": 2,
+      "build_id": 1,
+      "game_id": 39
+    },
+    "game_settings": {
+      "resolution": "4K",
+      "graphics_preset": "Low",
+      "ray_tracing_enabled": false,
+      "upscaling": "DLSS Performance"
+    },
+    "performance_metrics": {
+      "fps": {
+        "average_fps": 131,
+        "one_percent_low": 101
+      },
+      "hardware_telemetry": {
+        "cpu_max_temp_c": 62,
+        "gpu_max_temp_c": 72,
+        "gpu_utilization_percent": 86,
+        "system_ram_used_gb": 9.6
+      }
+    },
+    "test_date": "2026-04-28T23:27:49Z"
+  },
+  {
+    "sql_references": {
+      "user_id": 9,
+      "build_id": 10,
+      "game_id": 8
+    },
+    "game_settings": {
+      "resolution": "1080p",
+      "graphics_preset": "Ultra",
+      "ray_tracing_enabled": false,
+      "upscaling": "None"
+    },
+    "performance_metrics": {
+      "fps": {
+        "average_fps": 18,
+        "one_percent_low": 13
+      },
+      "hardware_telemetry": {
+        "cpu_max_temp_c": 69,
+        "gpu_max_temp_c": 83,
+        "gpu_utilization_percent": 97,
+        "system_ram_used_gb": 18.5
+      }
+    },
+    "test_date": "2026-04-18T11:27:49Z"
+  },
+  {
+    "sql_references": {
+      "user_id": 8,
+      "build_id": 5,
+      "game_id": 9
+    },
+    "game_settings": {
+      "resolution": "1440p",
+      "graphics_preset": "Low",
+      "ray_tracing_enabled": false,
+      "upscaling": "FSR Performance"
+    },
+    "performance_metrics": {
+      "fps": {
+        "average_fps": 76,
+        "one_percent_low": 59
+      },
+      "hardware_telemetry": {
+        "cpu_max_temp_c": 68,
+        "gpu_max_temp_c": 81,
+        "gpu_utilization_percent": 93,
+        "system_ram_used_gb": 8.2
+      }
+    },
+    "test_date": "2026-05-03T12:27:49Z"
+  },
+  {
+    "sql_references": {
+      "user_id": 1,
+      "build_id": 5,
+      "game_id": 26
+    },
+    "game_settings": {
+      "resolution": "1440p",
+      "graphics_preset": "Ultra",
+      "ray_tracing_enabled": false,
+      "upscaling": "FSR Performance"
+    },
+    "performance_metrics": {
+      "fps": {
+        "average_fps": 49,
+        "one_percent_low": 31
+      },
+      "hardware_telemetry": {
+        "cpu_max_temp_c": 59,
+        "gpu_max_temp_c": 66,
+        "gpu_utilization_percent": 85,
+        "system_ram_used_gb": 12.2
+      }
+    },
+    "test_date": "2026-04-21T23:27:49Z"
+  },
+  {
+    "sql_references": {
+      "user_id": 2,
+      "build_id": 6,
+      "game_id": 50
+    },
+    "game_settings": {
+      "resolution": "1440p",
+      "graphics_preset": "High",
+      "ray_tracing_enabled": true,
+      "upscaling": "None"
+    },
+    "performance_metrics": {
+      "fps": {
+        "average_fps": 140,
+        "one_percent_low": 102
+      },
+      "hardware_telemetry": {
+        "cpu_max_temp_c": 74,
+        "gpu_max_temp_c": 53,
+        "gpu_utilization_percent": 50,
+        "system_ram_used_gb": 4.5
+      }
+    },
+    "test_date": "2026-05-10T01:27:49Z"
+  },
+  {
+    "sql_references": {
+      "user_id": 5,
+      "build_id": 7,
+      "game_id": 49
+    },
+    "game_settings": {
+      "resolution": "1080p",
+      "graphics_preset": "Extreme",
+      "ray_tracing_enabled": true,
+      "upscaling": "DLSS Quality"
+    },
+    "performance_metrics": {
+      "fps": {
+        "average_fps": 31,
+        "one_percent_low": 19
+      },
+      "hardware_telemetry": {
+        "cpu_max_temp_c": 73,
+        "gpu_max_temp_c": 76,
+        "gpu_utilization_percent": 87,
+        "system_ram_used_gb": 5.9
+      }
+    },
+    "test_date": "2026-05-03T10:27:49Z"
+  },
+  {
+    "sql_references": {
+      "user_id": 1,
+      "build_id": 1,
+      "game_id": 28
+    },
+    "game_settings": {
+      "resolution": "1080p",
+      "graphics_preset": "High",
+      "ray_tracing_enabled": false,
+      "upscaling": "DLSS Performance"
+    },
+    "performance_metrics": {
+      "fps": {
+        "average_fps": 230,
+        "one_percent_low": 140
+      },
+      "hardware_telemetry": {
+        "cpu_max_temp_c": 59,
+        "gpu_max_temp_c": 81,
+        "gpu_utilization_percent": 94,
+        "system_ram_used_gb": 4.4
+      }
+    },
+    "test_date": "2026-04-26T11:27:49Z"
+  },
+  {
+    "sql_references": {
+      "user_id": 8,
+      "build_id": 8,
+      "game_id": 11
+    },
+    "game_settings": {
+      "resolution": "1080p",
+      "graphics_preset": "Low",
+      "ray_tracing_enabled": false,
+      "upscaling": "DLSS Performance"
+    },
+    "performance_metrics": {
+      "fps": {
+        "average_fps": 249,
+        "one_percent_low": 162
+      },
+      "hardware_telemetry": {
+        "cpu_max_temp_c": 80,
+        "gpu_max_temp_c": 52,
+        "gpu_utilization_percent": 46,
+        "system_ram_used_gb": 9.8
+      }
+    },
+    "test_date": "2026-04-17T04:27:49Z"
+  },
+  {
+    "sql_references": {
+      "user_id": 4,
+      "build_id": 10,
+      "game_id": 15
+    },
+    "game_settings": {
+      "resolution": "4K",
+      "graphics_preset": "Extreme",
+      "ray_tracing_enabled": false,
+      "upscaling": "FSR Quality"
+    },
+    "performance_metrics": {
+      "fps": {
+        "average_fps": 21,
+        "one_percent_low": 13
+      },
+      "hardware_telemetry": {
+        "cpu_max_temp_c": 81,
+        "gpu_max_temp_c": 58,
+        "gpu_utilization_percent": 56,
+        "system_ram_used_gb": 9.9
+      }
+    },
+    "test_date": "2026-04-27T04:27:49Z"
+  },
+  {
+    "sql_references": {
+      "user_id": 9,
+      "build_id": 4,
+      "game_id": 8
+    },
+    "game_settings": {
+      "resolution": "1080p",
+      "graphics_preset": "Ultra",
+      "ray_tracing_enabled": true,
+      "upscaling": "DLSS Quality"
+    },
+    "performance_metrics": {
+      "fps": {
+        "average_fps": 28,
+        "one_percent_low": 21
+      },
+      "hardware_telemetry": {
+        "cpu_max_temp_c": 59,
+        "gpu_max_temp_c": 62,
+        "gpu_utilization_percent": 85,
+        "system_ram_used_gb": 13.3
+      }
+    },
+    "test_date": "2026-04-30T14:27:49Z"
+  },
+  {
+    "sql_references": {
+      "user_id": 1,
+      "build_id": 4,
+      "game_id": 32
+    },
+    "game_settings": {
+      "resolution": "1440p",
+      "graphics_preset": "Medium",
+      "ray_tracing_enabled": false,
+      "upscaling": "FSR Performance"
+    },
+    "performance_metrics": {
+      "fps": {
+        "average_fps": 97,
+        "one_percent_low": 77
+      },
+      "hardware_telemetry": {
+        "cpu_max_temp_c": 58,
+        "gpu_max_temp_c": 75,
+        "gpu_utilization_percent": 99,
+        "system_ram_used_gb": 7.4
+      }
+    },
+    "test_date": "2026-05-16T17:27:49Z"
+  },
+  {
+    "sql_references": {
+      "user_id": 1,
+      "build_id": 11,
+      "game_id": 38
+    },
+    "game_settings": {
+      "resolution": "4K",
+      "graphics_preset": "High",
+      "ray_tracing_enabled": false,
+      "upscaling": "FSR Quality"
+    },
+    "performance_metrics": {
+      "fps": {
+        "average_fps": 17,
+        "one_percent_low": 12
+      },
+      "hardware_telemetry": {
+        "cpu_max_temp_c": 75,
+        "gpu_max_temp_c": 79,
+        "gpu_utilization_percent": 93,
+        "system_ram_used_gb": 9.8
+      }
+    },
+    "test_date": "2026-05-10T17:27:49Z"
+  },
+  {
+    "sql_references": {
+      "user_id": 10,
+      "build_id": 12,
+      "game_id": 20
+    },
+    "game_settings": {
+      "resolution": "1080p",
+      "graphics_preset": "Ultra",
+      "ray_tracing_enabled": false,
+      "upscaling": "FSR Quality"
+    },
+    "performance_metrics": {
+      "fps": {
+        "average_fps": 31,
+        "one_percent_low": 23
+      },
+      "hardware_telemetry": {
+        "cpu_max_temp_c": 64,
+        "gpu_max_temp_c": 76,
+        "gpu_utilization_percent": 92,
+        "system_ram_used_gb": 11.1
+      }
+    },
+    "test_date": "2026-05-09T17:27:49Z"
+  },
+  {
+    "sql_references": {
+      "user_id": 3,
+      "build_id": 4,
+      "game_id": 31
+    },
+    "game_settings": {
+      "resolution": "4K",
+      "graphics_preset": "Medium",
+      "ray_tracing_enabled": true,
+      "upscaling": "FSR Quality"
+    },
+    "performance_metrics": {
+      "fps": {
+        "average_fps": 26,
+        "one_percent_low": 17
+      },
+      "hardware_telemetry": {
+        "cpu_max_temp_c": 60,
+        "gpu_max_temp_c": 77,
+        "gpu_utilization_percent": 90,
+        "system_ram_used_gb": 4.4
+      }
+    },
+    "test_date": "2026-04-30T15:27:49Z"
+  },
+  {
+    "sql_references": {
+      "user_id": 8,
+      "build_id": 4,
+      "game_id": 39
+    },
+    "game_settings": {
+      "resolution": "4K",
+      "graphics_preset": "Medium",
+      "ray_tracing_enabled": false,
+      "upscaling": "FSR Performance"
+    },
+    "performance_metrics": {
+      "fps": {
+        "average_fps": 52,
+        "one_percent_low": 32
+      },
+      "hardware_telemetry": {
+        "cpu_max_temp_c": 66,
+        "gpu_max_temp_c": 72,
+        "gpu_utilization_percent": 93,
+        "system_ram_used_gb": 9.3
+      }
+    },
+    "test_date": "2026-05-05T10:27:49Z"
+  },
+  {
+    "sql_references": {
+      "user_id": 6,
+      "build_id": 3,
+      "game_id": 8
+    },
+    "game_settings": {
+      "resolution": "1440p",
+      "graphics_preset": "High",
+      "ray_tracing_enabled": false,
+      "upscaling": "FSR Quality"
+    },
+    "performance_metrics": {
+      "fps": {
+        "average_fps": 70,
+        "one_percent_low": 43
+      },
+      "hardware_telemetry": {
+        "cpu_max_temp_c": 61,
+        "gpu_max_temp_c": 71,
+        "gpu_utilization_percent": 100,
+        "system_ram_used_gb": 9.4
+      }
+    },
+    "test_date": "2026-04-20T17:27:49Z"
+  },
+  {
+    "sql_references": {
+      "user_id": 8,
+      "build_id": 3,
+      "game_id": 13
+    },
+    "game_settings": {
+      "resolution": "4K",
+      "graphics_preset": "Ultra",
+      "ray_tracing_enabled": true,
+      "upscaling": "FSR Quality"
+    },
+    "performance_metrics": {
+      "fps": {
+        "average_fps": 68,
+        "one_percent_low": 45
+      },
+      "hardware_telemetry": {
+        "cpu_max_temp_c": 76,
+        "gpu_max_temp_c": 53,
+        "gpu_utilization_percent": 75,
+        "system_ram_used_gb": 4.8
+      }
+    },
+    "test_date": "2026-04-27T04:27:49Z"
+  },
+  {
+    "sql_references": {
+      "user_id": 10,
+      "build_id": 2,
+      "game_id": 6
+    },
+    "game_settings": {
+      "resolution": "4K",
+      "graphics_preset": "Extreme",
+      "ray_tracing_enabled": true,
+      "upscaling": "FSR Quality"
+    },
+    "performance_metrics": {
+      "fps": {
+        "average_fps": 18,
+        "one_percent_low": 12
+      },
+      "hardware_telemetry": {
+        "cpu_max_temp_c": 66,
+        "gpu_max_temp_c": 80,
+        "gpu_utilization_percent": 87,
+        "system_ram_used_gb": 6.5
+      }
+    },
+    "test_date": "2026-05-14T22:27:49Z"
+  },
+  {
+    "sql_references": {
+      "user_id": 6,
+      "build_id": 1,
+      "game_id": 4
+    },
+    "game_settings": {
+      "resolution": "1080p",
+      "graphics_preset": "Low",
+      "ray_tracing_enabled": true,
+      "upscaling": "None"
+    },
+    "performance_metrics": {
+      "fps": {
+        "average_fps": 119,
+        "one_percent_low": 85
+      },
+      "hardware_telemetry": {
+        "cpu_max_temp_c": 58,
+        "gpu_max_temp_c": 83,
+        "gpu_utilization_percent": 91,
+        "system_ram_used_gb": 11.5
+      }
+    },
+    "test_date": "2026-05-02T17:27:49Z"
+  },
+  {
+    "sql_references": {
+      "user_id": 3,
+      "build_id": 7,
+      "game_id": 11
+    },
+    "game_settings": {
+      "resolution": "1080p",
+      "graphics_preset": "High",
+      "ray_tracing_enabled": false,
+      "upscaling": "FSR Quality"
+    },
+    "performance_metrics": {
+      "fps": {
+        "average_fps": 240,
+        "one_percent_low": 185
+      },
+      "hardware_telemetry": {
+        "cpu_max_temp_c": 71,
+        "gpu_max_temp_c": 65,
+        "gpu_utilization_percent": 79,
+        "system_ram_used_gb": 4.4
+      }
+    },
+    "test_date": "2026-05-05T12:27:49Z"
+  },
+  {
+    "sql_references": {
+      "user_id": 10,
+      "build_id": 11,
+      "game_id": 48
+    },
+    "game_settings": {
+      "resolution": "1440p",
+      "graphics_preset": "Medium",
+      "ray_tracing_enabled": true,
+      "upscaling": "FSR Performance"
+    },
+    "performance_metrics": {
+      "fps": {
+        "average_fps": 131,
+        "one_percent_low": 101
+      },
+      "hardware_telemetry": {
+        "cpu_max_temp_c": 72,
+        "gpu_max_temp_c": 56,
+        "gpu_utilization_percent": 64,
+        "system_ram_used_gb": 9.1
+      }
+    },
+    "test_date": "2026-05-12T06:27:49Z"
+  },
+  {
+    "sql_references": {
+      "user_id": 8,
+      "build_id": 8,
+      "game_id": 7
+    },
+    "game_settings": {
+      "resolution": "1080p",
+      "graphics_preset": "Extreme",
+      "ray_tracing_enabled": true,
+      "upscaling": "None"
+    },
+    "performance_metrics": {
+      "fps": {
+        "average_fps": 12,
+        "one_percent_low": 9
+      },
+      "hardware_telemetry": {
+        "cpu_max_temp_c": 74,
+        "gpu_max_temp_c": 70,
+        "gpu_utilization_percent": 92,
+        "system_ram_used_gb": 5.7
+      }
+    },
+    "test_date": "2026-05-17T07:27:49Z"
+  },
+  {
+    "sql_references": {
+      "user_id": 6,
+      "build_id": 3,
+      "game_id": 4
+    },
+    "game_settings": {
+      "resolution": "4K",
+      "graphics_preset": "High",
+      "ray_tracing_enabled": true,
+      "upscaling": "DLSS Quality"
+    },
+    "performance_metrics": {
+      "fps": {
+        "average_fps": 33,
+        "one_percent_low": 20
+      },
+      "hardware_telemetry": {
+        "cpu_max_temp_c": 55,
+        "gpu_max_temp_c": 85,
+        "gpu_utilization_percent": 88,
+        "system_ram_used_gb": 10.2
+      }
+    },
+    "test_date": "2026-04-24T03:27:49Z"
+  },
+  {
+    "sql_references": {
+      "user_id": 5,
+      "build_id": 3,
+      "game_id": 40
+    },
+    "game_settings": {
+      "resolution": "1080p",
+      "graphics_preset": "Low",
+      "ray_tracing_enabled": false,
+      "upscaling": "FSR Quality"
+    },
+    "performance_metrics": {
+      "fps": {
+        "average_fps": 1316,
+        "one_percent_low": 880
+      },
+      "hardware_telemetry": {
+        "cpu_max_temp_c": 80,
+        "gpu_max_temp_c": 54,
+        "gpu_utilization_percent": 63,
+        "system_ram_used_gb": 6.9
+      }
+    },
+    "test_date": "2026-05-09T08:27:49Z"
+  },
+  {
+    "sql_references": {
+      "user_id": 6,
+      "build_id": 1,
+      "game_id": 43
+    },
+    "game_settings": {
+      "resolution": "4K",
+      "graphics_preset": "Medium",
+      "ray_tracing_enabled": false,
+      "upscaling": "FSR Performance"
+    },
+    "performance_metrics": {
+      "fps": {
+        "average_fps": 94,
+        "one_percent_low": 56
+      },
+      "hardware_telemetry": {
+        "cpu_max_temp_c": 71,
+        "gpu_max_temp_c": 76,
+        "gpu_utilization_percent": 93,
+        "system_ram_used_gb": 9.5
+      }
+    },
+    "test_date": "2026-05-03T09:27:49Z"
+  },
+  {
+    "sql_references": {
+      "user_id": 2,
+      "build_id": 11,
+      "game_id": 38
+    },
+    "game_settings": {
+      "resolution": "1440p",
+      "graphics_preset": "Ultra",
+      "ray_tracing_enabled": false,
+      "upscaling": "FSR Quality"
+    },
+    "performance_metrics": {
+      "fps": {
+        "average_fps": 24,
+        "one_percent_low": 17
+      },
+      "hardware_telemetry": {
+        "cpu_max_temp_c": 63,
+        "gpu_max_temp_c": 85,
+        "gpu_utilization_percent": 87,
+        "system_ram_used_gb": 9.7
+      }
+    },
+    "test_date": "2026-04-27T22:27:49Z"
+  },
+  {
+    "sql_references": {
+      "user_id": 2,
+      "build_id": 1,
+      "game_id": 48
+    },
+    "game_settings": {
+      "resolution": "1440p",
+      "graphics_preset": "Low",
+      "ray_tracing_enabled": false,
+      "upscaling": "DLSS Performance"
+    },
+    "performance_metrics": {
+      "fps": {
+        "average_fps": 1095,
+        "one_percent_low": 863
+      },
+      "hardware_telemetry": {
+        "cpu_max_temp_c": 74,
+        "gpu_max_temp_c": 58,
+        "gpu_utilization_percent": 78,
+        "system_ram_used_gb": 8.3
+      }
+    },
+    "test_date": "2026-04-21T00:27:49Z"
+  },
+  {
+    "sql_references": {
+      "user_id": 5,
+      "build_id": 5,
+      "game_id": 45
+    },
+    "game_settings": {
+      "resolution": "4K",
+      "graphics_preset": "Low",
+      "ray_tracing_enabled": true,
+      "upscaling": "FSR Quality"
+    },
+    "performance_metrics": {
+      "fps": {
+        "average_fps": 34,
+        "one_percent_low": 23
+      },
+      "hardware_telemetry": {
+        "cpu_max_temp_c": 75,
+        "gpu_max_temp_c": 78,
+        "gpu_utilization_percent": 100,
+        "system_ram_used_gb": 6.6
+      }
+    },
+    "test_date": "2026-05-17T07:27:49Z"
+  },
+  {
+    "sql_references": {
+      "user_id": 1,
+      "build_id": 9,
+      "game_id": 46
+    },
+    "game_settings": {
+      "resolution": "4K",
+      "graphics_preset": "Medium",
+      "ray_tracing_enabled": true,
+      "upscaling": "FSR Quality"
+    },
+    "performance_metrics": {
+      "fps": {
+        "average_fps": 13,
+        "one_percent_low": 9
+      },
+      "hardware_telemetry": {
+        "cpu_max_temp_c": 65,
+        "gpu_max_temp_c": 71,
+        "gpu_utilization_percent": 97,
+        "system_ram_used_gb": 7.7
+      }
+    },
+    "test_date": "2026-04-21T22:27:49Z"
+  },
+  {
+    "sql_references": {
+      "user_id": 2,
+      "build_id": 3,
+      "game_id": 38
+    },
+    "game_settings": {
+      "resolution": "4K",
+      "graphics_preset": "Low",
+      "ray_tracing_enabled": true,
+      "upscaling": "FSR Quality"
+    },
+    "performance_metrics": {
+      "fps": {
+        "average_fps": 61,
+        "one_percent_low": 42
+      },
+      "hardware_telemetry": {
+        "cpu_max_temp_c": 70,
+        "gpu_max_temp_c": 78,
+        "gpu_utilization_percent": 95,
+        "system_ram_used_gb": 8.2
+      }
+    },
+    "test_date": "2026-05-14T10:27:49Z"
+  },
+  {
+    "sql_references": {
+      "user_id": 7,
+      "build_id": 10,
+      "game_id": 48
+    },
+    "game_settings": {
+      "resolution": "1080p",
+      "graphics_preset": "Ultra",
+      "ray_tracing_enabled": true,
+      "upscaling": "FSR Performance"
+    },
+    "performance_metrics": {
+      "fps": {
+        "average_fps": 121,
+        "one_percent_low": 75
+      },
+      "hardware_telemetry": {
+        "cpu_max_temp_c": 80,
+        "gpu_max_temp_c": 54,
+        "gpu_utilization_percent": 62,
+        "system_ram_used_gb": 4.2
+      }
+    },
+    "test_date": "2026-05-08T22:27:49Z"
+  },
+  {
+    "sql_references": {
+      "user_id": 4,
+      "build_id": 11,
+      "game_id": 12
+    },
+    "game_settings": {
+      "resolution": "1440p",
+      "graphics_preset": "High",
+      "ray_tracing_enabled": true,
+      "upscaling": "DLSS Performance"
+    },
+    "performance_metrics": {
+      "fps": {
+        "average_fps": 59,
+        "one_percent_low": 45
+      },
+      "hardware_telemetry": {
+        "cpu_max_temp_c": 76,
+        "gpu_max_temp_c": 66,
+        "gpu_utilization_percent": 58,
+        "system_ram_used_gb": 9.3
+      }
+    },
+    "test_date": "2026-04-25T20:27:49Z"
+  },
+  {
+    "sql_references": {
+      "user_id": 7,
+      "build_id": 4,
+      "game_id": 15
+    },
+    "game_settings": {
+      "resolution": "4K",
+      "graphics_preset": "Low",
+      "ray_tracing_enabled": true,
+      "upscaling": "None"
+    },
+    "performance_metrics": {
+      "fps": {
+        "average_fps": 65,
+        "one_percent_low": 46
+      },
+      "hardware_telemetry": {
+        "cpu_max_temp_c": 77,
+        "gpu_max_temp_c": 50,
+        "gpu_utilization_percent": 58,
+        "system_ram_used_gb": 4.2
+      }
+    },
+    "test_date": "2026-04-30T05:27:49Z"
+  },
+  {
+    "sql_references": {
+      "user_id": 1,
+      "build_id": 7,
+      "game_id": 15
+    },
+    "game_settings": {
+      "resolution": "1080p",
+      "graphics_preset": "Ultra",
+      "ray_tracing_enabled": true,
+      "upscaling": "FSR Performance"
+    },
+    "performance_metrics": {
+      "fps": {
+        "average_fps": 129,
+        "one_percent_low": 101
+      },
+      "hardware_telemetry": {
+        "cpu_max_temp_c": 65,
+        "gpu_max_temp_c": 58,
+        "gpu_utilization_percent": 72,
+        "system_ram_used_gb": 8.9
+      }
+    },
+    "test_date": "2026-04-26T11:27:49Z"
+  },
+  {
+    "sql_references": {
+      "user_id": 6,
+      "build_id": 6,
+      "game_id": 5
+    },
+    "game_settings": {
+      "resolution": "1440p",
+      "graphics_preset": "Low",
+      "ray_tracing_enabled": true,
+      "upscaling": "DLSS Performance"
+    },
+    "performance_metrics": {
+      "fps": {
+        "average_fps": 48,
+        "one_percent_low": 30
+      },
+      "hardware_telemetry": {
+        "cpu_max_temp_c": 63,
+        "gpu_max_temp_c": 85,
+        "gpu_utilization_percent": 88,
+        "system_ram_used_gb": 19.3
+      }
+    },
+    "test_date": "2026-05-07T10:27:49Z"
+  },
+  {
+    "sql_references": {
+      "user_id": 5,
+      "build_id": 4,
+      "game_id": 29
+    },
+    "game_settings": {
+      "resolution": "1080p",
+      "graphics_preset": "Low",
+      "ray_tracing_enabled": true,
+      "upscaling": "DLSS Quality"
+    },
+    "performance_metrics": {
+      "fps": {
+        "average_fps": 101,
+        "one_percent_low": 68
+      },
+      "hardware_telemetry": {
+        "cpu_max_temp_c": 72,
+        "gpu_max_temp_c": 82,
+        "gpu_utilization_percent": 95,
+        "system_ram_used_gb": 7.9
+      }
+    },
+    "test_date": "2026-04-17T16:27:49Z"
+  },
+  {
+    "sql_references": {
+      "user_id": 3,
+      "build_id": 6,
+      "game_id": 6
+    },
+    "game_settings": {
+      "resolution": "4K",
+      "graphics_preset": "Low",
+      "ray_tracing_enabled": true,
+      "upscaling": "DLSS Quality"
+    },
+    "performance_metrics": {
+      "fps": {
+        "average_fps": 35,
+        "one_percent_low": 24
+      },
+      "hardware_telemetry": {
+        "cpu_max_temp_c": 71,
+        "gpu_max_temp_c": 82,
+        "gpu_utilization_percent": 94,
+        "system_ram_used_gb": 4.2
+      }
+    },
+    "test_date": "2026-05-09T00:27:49Z"
+  },
+  {
+    "sql_references": {
+      "user_id": 2,
+      "build_id": 4,
+      "game_id": 20
+    },
+    "game_settings": {
+      "resolution": "4K",
+      "graphics_preset": "High",
+      "ray_tracing_enabled": false,
+      "upscaling": "FSR Performance"
+    },
+    "performance_metrics": {
+      "fps": {
+        "average_fps": 35,
+        "one_percent_low": 22
+      },
+      "hardware_telemetry": {
+        "cpu_max_temp_c": 74,
+        "gpu_max_temp_c": 71,
+        "gpu_utilization_percent": 88,
+        "system_ram_used_gb": 23.2
+      }
+    },
+    "test_date": "2026-04-21T14:27:49Z"
+  },
+  {
+    "sql_references": {
+      "user_id": 1,
+      "build_id": 7,
+      "game_id": 7
+    },
+    "game_settings": {
+      "resolution": "1440p",
+      "graphics_preset": "Medium",
+      "ray_tracing_enabled": false,
+      "upscaling": "DLSS Performance"
+    },
+    "performance_metrics": {
+      "fps": {
+        "average_fps": 104,
+        "one_percent_low": 71
+      },
+      "hardware_telemetry": {
+        "cpu_max_temp_c": 60,
+        "gpu_max_temp_c": 73,
+        "gpu_utilization_percent": 98,
+        "system_ram_used_gb": 8.8
+      }
+    },
+    "test_date": "2026-04-20T04:27:49Z"
+  },
+  {
+    "sql_references": {
+      "user_id": 4,
+      "build_id": 4,
+      "game_id": 49
+    },
+    "game_settings": {
+      "resolution": "1080p",
+      "graphics_preset": "Extreme",
+      "ray_tracing_enabled": true,
+      "upscaling": "FSR Performance"
+    },
+    "performance_metrics": {
+      "fps": {
+        "average_fps": 36,
+        "one_percent_low": 28
+      },
+      "hardware_telemetry": {
+        "cpu_max_temp_c": 58,
+        "gpu_max_temp_c": 79,
+        "gpu_utilization_percent": 93,
+        "system_ram_used_gb": 4.9
+      }
+    },
+    "test_date": "2026-04-28T08:27:49Z"
+  },
+  {
+    "sql_references": {
+      "user_id": 6,
+      "build_id": 3,
+      "game_id": 29
+    },
+    "game_settings": {
+      "resolution": "4K",
+      "graphics_preset": "High",
+      "ray_tracing_enabled": true,
+      "upscaling": "None"
+    },
+    "performance_metrics": {
+      "fps": {
+        "average_fps": 30,
+        "one_percent_low": 18
+      },
+      "hardware_telemetry": {
+        "cpu_max_temp_c": 70,
+        "gpu_max_temp_c": 80,
+        "gpu_utilization_percent": 90,
+        "system_ram_used_gb": 7.2
+      }
+    },
+    "test_date": "2026-05-03T05:27:49Z"
+  },
+  {
+    "sql_references": {
+      "user_id": 6,
+      "build_id": 12,
+      "game_id": 16
+    },
+    "game_settings": {
+      "resolution": "1080p",
+      "graphics_preset": "Extreme",
+      "ray_tracing_enabled": false,
+      "upscaling": "DLSS Quality"
+    },
+    "performance_metrics": {
+      "fps": {
+        "average_fps": 26,
+        "one_percent_low": 18
+      },
+      "hardware_telemetry": {
+        "cpu_max_temp_c": 68,
+        "gpu_max_temp_c": 83,
+        "gpu_utilization_percent": 92,
+        "system_ram_used_gb": 8.2
+      }
+    },
+    "test_date": "2026-05-07T22:27:49Z"
+  },
+  {
+    "sql_references": {
+      "user_id": 9,
+      "build_id": 9,
+      "game_id": 34
+    },
+    "game_settings": {
+      "resolution": "4K",
+      "graphics_preset": "Extreme",
+      "ray_tracing_enabled": false,
+      "upscaling": "FSR Quality"
+    },
+    "performance_metrics": {
+      "fps": {
+        "average_fps": 21,
+        "one_percent_low": 14
+      },
+      "hardware_telemetry": {
+        "cpu_max_temp_c": 77,
+        "gpu_max_temp_c": 61,
+        "gpu_utilization_percent": 60,
+        "system_ram_used_gb": 5.2
+      }
+    },
+    "test_date": "2026-04-23T23:27:49Z"
+  },
+  {
+    "sql_references": {
+      "user_id": 6,
+      "build_id": 4,
+      "game_id": 1
+    },
+    "game_settings": {
+      "resolution": "1080p",
+      "graphics_preset": "Extreme",
+      "ray_tracing_enabled": false,
+      "upscaling": "DLSS Quality"
+    },
+    "performance_metrics": {
+      "fps": {
+        "average_fps": 31,
+        "one_percent_low": 23
+      },
+      "hardware_telemetry": {
+        "cpu_max_temp_c": 58,
+        "gpu_max_temp_c": 72,
+        "gpu_utilization_percent": 95,
+        "system_ram_used_gb": 23.6
+      }
+    },
+    "test_date": "2026-05-10T01:27:49Z"
+  },
+  {
+    "sql_references": {
+      "user_id": 9,
+      "build_id": 7,
+      "game_id": 9
+    },
+    "game_settings": {
+      "resolution": "1080p",
+      "graphics_preset": "Extreme",
+      "ray_tracing_enabled": false,
+      "upscaling": "FSR Performance"
+    },
+    "performance_metrics": {
+      "fps": {
+        "average_fps": 36,
+        "one_percent_low": 23
+      },
+      "hardware_telemetry": {
+        "cpu_max_temp_c": 59,
+        "gpu_max_temp_c": 75,
+        "gpu_utilization_percent": 95,
+        "system_ram_used_gb": 11.3
+      }
+    },
+    "test_date": "2026-05-14T09:27:49Z"
+  },
+  {
+    "sql_references": {
+      "user_id": 4,
+      "build_id": 2,
+      "game_id": 35
+    },
+    "game_settings": {
+      "resolution": "1440p",
+      "graphics_preset": "Low",
+      "ray_tracing_enabled": false,
+      "upscaling": "FSR Quality"
+    },
+    "performance_metrics": {
+      "fps": {
+        "average_fps": 456,
+        "one_percent_low": 357
+      },
+      "hardware_telemetry": {
+        "cpu_max_temp_c": 78,
+        "gpu_max_temp_c": 68,
+        "gpu_utilization_percent": 74,
+        "system_ram_used_gb": 5.7
+      }
+    },
+    "test_date": "2026-04-17T02:27:49Z"
+  },
+  {
+    "sql_references": {
+      "user_id": 3,
+      "build_id": 3,
+      "game_id": 10
+    },
+    "game_settings": {
+      "resolution": "1440p",
+      "graphics_preset": "Ultra",
+      "ray_tracing_enabled": true,
+      "upscaling": "FSR Quality"
+    },
+    "performance_metrics": {
+      "fps": {
+        "average_fps": 44,
+        "one_percent_low": 26
+      },
+      "hardware_telemetry": {
+        "cpu_max_temp_c": 56,
+        "gpu_max_temp_c": 83,
+        "gpu_utilization_percent": 100,
+        "system_ram_used_gb": 22.8
+      }
+    },
+    "test_date": "2026-05-06T13:27:49Z"
+  },
+  {
+    "sql_references": {
+      "user_id": 6,
+      "build_id": 1,
+      "game_id": 21
+    },
+    "game_settings": {
+      "resolution": "4K",
+      "graphics_preset": "Low",
+      "ray_tracing_enabled": true,
+      "upscaling": "None"
+    },
+    "performance_metrics": {
+      "fps": {
+        "average_fps": 49,
+        "one_percent_low": 36
+      },
+      "hardware_telemetry": {
+        "cpu_max_temp_c": 66,
+        "gpu_max_temp_c": 81,
+        "gpu_utilization_percent": 93,
+        "system_ram_used_gb": 5.6
+      }
+    },
+    "test_date": "2026-05-13T10:27:49Z"
+  },
+  {
+    "sql_references": {
+      "user_id": 10,
+      "build_id": 4,
+      "game_id": 5
+    },
+    "game_settings": {
+      "resolution": "1080p",
+      "graphics_preset": "Ultra",
+      "ray_tracing_enabled": true,
+      "upscaling": "FSR Performance"
+    },
+    "performance_metrics": {
+      "fps": {
+        "average_fps": 32,
+        "one_percent_low": 21
+      },
+      "hardware_telemetry": {
+        "cpu_max_temp_c": 72,
+        "gpu_max_temp_c": 53,
+        "gpu_utilization_percent": 85,
+        "system_ram_used_gb": 12.9
+      }
+    },
+    "test_date": "2026-04-29T18:27:49Z"
+  },
+  {
+    "sql_references": {
+      "user_id": 5,
+      "build_id": 3,
+      "game_id": 8
+    },
+    "game_settings": {
+      "resolution": "1440p",
+      "graphics_preset": "Medium",
+      "ray_tracing_enabled": false,
+      "upscaling": "DLSS Performance"
+    },
+    "performance_metrics": {
+      "fps": {
+        "average_fps": 112,
+        "one_percent_low": 81
+      },
+      "hardware_telemetry": {
+        "cpu_max_temp_c": 60,
+        "gpu_max_temp_c": 73,
+        "gpu_utilization_percent": 99,
+        "system_ram_used_gb": 12.2
+      }
+    },
+    "test_date": "2026-05-15T01:27:49Z"
+  },
+  {
+    "sql_references": {
+      "user_id": 5,
+      "build_id": 9,
+      "game_id": 30
+    },
+    "game_settings": {
+      "resolution": "1080p",
+      "graphics_preset": "Extreme",
+      "ray_tracing_enabled": true,
+      "upscaling": "DLSS Quality"
+    },
+    "performance_metrics": {
+      "fps": {
+        "average_fps": 15,
+        "one_percent_low": 10
+      },
+      "hardware_telemetry": {
+        "cpu_max_temp_c": 64,
+        "gpu_max_temp_c": 75,
+        "gpu_utilization_percent": 96,
+        "system_ram_used_gb": 9.2
+      }
+    },
+    "test_date": "2026-05-15T13:27:49Z"
+  },
+  {
+    "sql_references": {
+      "user_id": 6,
+      "build_id": 3,
+      "game_id": 50
+    },
+    "game_settings": {
+      "resolution": "4K",
+      "graphics_preset": "Low",
+      "ray_tracing_enabled": false,
+      "upscaling": "DLSS Quality"
+    },
+    "performance_metrics": {
+      "fps": {
+        "average_fps": 479,
+        "one_percent_low": 293
+      },
+      "hardware_telemetry": {
+        "cpu_max_temp_c": 71,
+        "gpu_max_temp_c": 68,
+        "gpu_utilization_percent": 83,
+        "system_ram_used_gb": 5.3
+      }
+    },
+    "test_date": "2026-05-04T16:27:49Z"
+  },
+  {
+    "sql_references": {
+      "user_id": 3,
+      "build_id": 5,
+      "game_id": 50
+    },
+    "game_settings": {
+      "resolution": "1080p",
+      "graphics_preset": "Extreme",
+      "ray_tracing_enabled": true,
+      "upscaling": "DLSS Quality"
+    },
+    "performance_metrics": {
+      "fps": {
+        "average_fps": 140,
+        "one_percent_low": 94
+      },
+      "hardware_telemetry": {
+        "cpu_max_temp_c": 67,
+        "gpu_max_temp_c": 55,
+        "gpu_utilization_percent": 50,
+        "system_ram_used_gb": 7.9
+      }
+    },
+    "test_date": "2026-04-27T05:27:49Z"
+  },
+  {
+    "sql_references": {
+      "user_id": 6,
+      "build_id": 7,
+      "game_id": 26
+    },
+    "game_settings": {
+      "resolution": "1440p",
+      "graphics_preset": "Extreme",
+      "ray_tracing_enabled": true,
+      "upscaling": "DLSS Quality"
+    },
+    "performance_metrics": {
+      "fps": {
+        "average_fps": 17,
+        "one_percent_low": 13
+      },
+      "hardware_telemetry": {
+        "cpu_max_temp_c": 65,
+        "gpu_max_temp_c": 85,
+        "gpu_utilization_percent": 91,
+        "system_ram_used_gb": 8.0
+      }
+    },
+    "test_date": "2026-05-10T21:27:49Z"
+  },
+  {
+    "sql_references": {
+      "user_id": 7,
+      "build_id": 7,
+      "game_id": 36
+    },
+    "game_settings": {
+      "resolution": "4K",
+      "graphics_preset": "Medium",
+      "ray_tracing_enabled": true,
+      "upscaling": "None"
+    },
+    "performance_metrics": {
+      "fps": {
+        "average_fps": 50,
+        "one_percent_low": 30
+      },
+      "hardware_telemetry": {
+        "cpu_max_temp_c": 82,
+        "gpu_max_temp_c": 56,
+        "gpu_utilization_percent": 59,
+        "system_ram_used_gb": 9.9
+      }
+    },
+    "test_date": "2026-04-19T13:27:49Z"
+  },
+  {
+    "sql_references": {
+      "user_id": 2,
+      "build_id": 9,
+      "game_id": 39
+    },
+    "game_settings": {
+      "resolution": "4K",
+      "graphics_preset": "Extreme",
+      "ray_tracing_enabled": false,
+      "upscaling": "None"
+    },
+    "performance_metrics": {
+      "fps": {
+        "average_fps": 12,
+        "one_percent_low": 9
+      },
+      "hardware_telemetry": {
+        "cpu_max_temp_c": 64,
+        "gpu_max_temp_c": 84,
+        "gpu_utilization_percent": 86,
+        "system_ram_used_gb": 5.7
+      }
+    },
+    "test_date": "2026-04-26T22:27:49Z"
+  },
+  {
+    "sql_references": {
+      "user_id": 4,
+      "build_id": 12,
+      "game_id": 3
+    },
+    "game_settings": {
+      "resolution": "1440p",
+      "graphics_preset": "Low",
+      "ray_tracing_enabled": true,
+      "upscaling": "None"
+    },
+    "performance_metrics": {
+      "fps": {
+        "average_fps": 15,
+        "one_percent_low": 10
+      },
+      "hardware_telemetry": {
+        "cpu_max_temp_c": 58,
+        "gpu_max_temp_c": 77,
+        "gpu_utilization_percent": 90,
+        "system_ram_used_gb": 8.9
+      }
+    },
+    "test_date": "2026-05-14T00:27:49Z"
+  },
+  {
+    "sql_references": {
+      "user_id": 5,
+      "build_id": 4,
+      "game_id": 16
+    },
+    "game_settings": {
+      "resolution": "1080p",
+      "graphics_preset": "Medium",
+      "ray_tracing_enabled": false,
+      "upscaling": "FSR Performance"
+    },
+    "performance_metrics": {
+      "fps": {
+        "average_fps": 150,
+        "one_percent_low": 99
+      },
+      "hardware_telemetry": {
+        "cpu_max_temp_c": 72,
+        "gpu_max_temp_c": 72,
+        "gpu_utilization_percent": 88,
+        "system_ram_used_gb": 4.8
+      }
+    },
+    "test_date": "2026-05-03T11:27:49Z"
+  },
+  {
+    "sql_references": {
+      "user_id": 8,
+      "build_id": 8,
+      "game_id": 34
+    },
+    "game_settings": {
+      "resolution": "1080p",
+      "graphics_preset": "Ultra",
+      "ray_tracing_enabled": true,
+      "upscaling": "FSR Quality"
+    },
+    "performance_metrics": {
+      "fps": {
+        "average_fps": 54,
+        "one_percent_low": 38
+      },
+      "hardware_telemetry": {
+        "cpu_max_temp_c": 67,
+        "gpu_max_temp_c": 61,
+        "gpu_utilization_percent": 67,
+        "system_ram_used_gb": 9.8
+      }
+    },
+    "test_date": "2026-04-19T13:27:49Z"
+  },
+  {
+    "sql_references": {
+      "user_id": 6,
+      "build_id": 8,
+      "game_id": 50
+    },
+    "game_settings": {
+      "resolution": "1440p",
+      "graphics_preset": "Extreme",
+      "ray_tracing_enabled": false,
+      "upscaling": "FSR Performance"
+    },
+    "performance_metrics": {
+      "fps": {
+        "average_fps": 87,
+        "one_percent_low": 53
+      },
+      "hardware_telemetry": {
+        "cpu_max_temp_c": 66,
+        "gpu_max_temp_c": 50,
+        "gpu_utilization_percent": 50,
+        "system_ram_used_gb": 6.9
+      }
+    },
+    "test_date": "2026-04-30T04:27:49Z"
+  }
+]

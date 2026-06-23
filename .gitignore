@@ -1,12 +1,9 @@
-# Security
-.env
-
-# Python Virtual Environments
-.venv/
-venv/
-env/
-
-# Cache and IDE files
-__pycache__/
-.idea/
+**/.idea/
+**/.venv/
+**/venv/
+**/pyvenv.cfg
+**/__pycache__/
+**/*.py[cod]
+**/.env
 .DS_Store
+Thumbs.db
