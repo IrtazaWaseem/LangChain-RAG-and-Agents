@@ -55,6 +55,5 @@ cd SMART-PDF-CHATBOT
 
 # 4. Install that specific module's dependencies
 pip install -r requirements.txt
-
-# 5. Run the Streamlit application
+# 5. run below command to run project
 streamlit run app.py
