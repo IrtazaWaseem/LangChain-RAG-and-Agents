@@ -37,7 +37,7 @@ A baseline interactive LLM application establishing the core architecture for me
 
 ---
 
-## 🚀 Quick Start & Installation
+##  Quick Start & Installation
 
 Because this is a monorepo, each project module has its own isolated dependency list. To run a specific module locally:
 
