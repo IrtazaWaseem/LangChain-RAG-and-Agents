@@ -1,0 +1,15 @@
+streamlit
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-unstructured
+langchain-pinecone
+langchain-nomic
+langchain-google-genai
+langchain-groq
+pinecone-client
+python-dotenv
+unstructured
+pytesseract
+pikepdf

@@ -22,7 +22,7 @@ def get_dropdown_data(table_name, column_name):
     if sql_conn:
         try:
             df = pd.read_sql(f"SELECT {column_name} FROM {table_name}", con=sql_conn)
-            return sorted(df[column_name].tolist())
+            return sorted(df=[column_name].tolist())
         except: return ["Data Read Error"]
     return ["SQL Engine Offline"]
 
